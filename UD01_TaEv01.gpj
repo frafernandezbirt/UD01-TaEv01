@@ -1,0 +1,53 @@
+!1689;s
+J
+SAU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SCU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+S+U0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SJU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012CLASSPATH+=.%;\012CLASSPATH+=%<TARGET_CLASSPATHS>%;\012Compile +Document\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012All\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full Java SE, not just the JRE, installed.\\nJava is available from https://www.oracle.com/java/technologies .\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012
+SKU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012CLASSPATH+=.%;\012CLASSPATH+=%<TARGET_CLASSPATHS>%;\012Compile +Document\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012All\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;
+SXU0
+SOU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SyU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning\012GCC_COLORS=
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!3144;d
+[\012  grasp [\012   legendy -37.0\012   legendx -218.5\012   version 1\012   winflags 3\012   eheight 972\012   ewidth 960\012   height 972\012   width 960\012   wbp 0\012   initlayout 0\012   yoffs -0.5000000000001137\012   xoffs 0.0\012   scale 1.0\012   args ""\012   otherflags 139\012   shallowjar 1\012   visflags 118423807\012  ]\012  directed 1\012  node [\012   ClassInfo [\012    fields "Ejercicio01\\011()V\\011c\\0111\\011\\011\\011Ejercicio01\011main\\011([Ljava/lang/String;)V\\011\\0119\\011\\011\\011Ejercicio01"\012    condition 0\012    access2 0\012    access 65569\012    classname "Ejercicio01"\012    fromclassfiledate 1727654511871\012    fromclassfilename "%\011Ejercicio01.class"\012    fromfilename "%\011Ejercicio01.java"\012   ]\012   id 0\012   graphics [\012    center [\012     x -438.5\012     y 1.5\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    fields "Ejercicio02\\011()V\\011c\\0111\\011\\011\\011Ejercicio02\011main\\011([Ljava/lang/String;)V\\011\\0119\\011\\011\\011Ejercicio02"\012    condition 0\012    access2 0\012    access 65569\012    classname "Ejercicio02"\012    fromclassfiledate 1727654512035\012    fromclassfilename "%\011Ejercicio02.class"\012    fromfilename "%\011Ejercicio02.java"\012   ]\012   id 1\012   graphics [\012    center [\012     x -328.5\012     y 1.5\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    fields "Ejercicio03\\011()V\\011c\\0111\\011\\011\\011Ejercicio03\011main\\011([Ljava/lang/String;)V\\011\\0119\\011\\011\\011Ejercicio03"\012    condition 0\012    access2 0\012    access 65569\012    classname "Ejercicio03"\012    fromclassfiledate 1727654511974\012    fromclassfilename "%\011Ejercicio03.class"\012    fromfilename "%\011Ejercicio03.java"\012   ]\012   id 2\012   graphics [\012    center [\012     x -218.5\012     y 1.5\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    fields "Ejercicio04\\011()V\\011c\\0111\\011\\011\\011Ejercicio04\011main\\011([Ljava/lang/String;)V\\011\\0119\\011\\011\\011Ejercicio04"\012    condition 0\012    access2 0\012    access 65569\012    classname "Ejercicio04"\012    fromclassfiledate 1727654511932\012    fromclassfilename "%\011Ejercicio04.class"\012    fromfilename "%\011Ejercicio04.java"\012   ]\012   id 3\012   graphics [\012    center [\012     x -91.35714285714289\012     y 1.5\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    fields "Ejercicio4c\\011()V\\011c\\0111\\011\\011\\011Ejercicio4c\011main\\011([Ljava/lang/String;)V\\011\\0119\\011\\011\\011Ejercicio4c"\012    condition 0\012    access2 0\012    access 65569\012    classname "Ejercicio4c"\012    fromclassfiledate 1727654595514\012    fromclassfilename "%\011Ejercicio4c.class"\012    fromfilename "%\011Ejercicio4c.java"\012   ]\012   id 4\012   graphics [\012    center [\012     x 25.5\012     y -9.928571428571388\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012 ]!80;u
+a1	b68	c255	f%\011UD01_TaEv01.jar	g%\011UD01_TaEv01.zip	hManifest-Version\0111.0!370;g
+%\011Ejercicio02.class
+%\011Ejercicio4b.class
+%\011Ejercicio4c.class
+%\011Nombres.dat
+%\011Ejercicio02.java
+%\011Ejercicio03.class
+%\011Ejercicio01.java
+%\011Ejercicio4b.java
+%\011Ejercicio04.java
+%\011salida.dat
+%\011Ejercicio04.class
+%\011TextoHolaMundo.txt
+%\011Ejercicio01.class
+%\011Ejercicio03.java
+%\011TareaEvaluativa01.pdf
+%\011Ejercicio4c.java
+%\011Marvel.dat
+!370;f
+%\011Ejercicio02.class
+%\011Ejercicio4b.class
+%\011Ejercicio4c.class
+%\011Nombres.dat
+%\011Ejercicio02.java
+%\011Ejercicio03.class
+%\011Ejercicio01.java
+%\011Ejercicio4b.java
+%\011Ejercicio04.java
+%\011salida.dat
+%\011Ejercicio04.class
+%\011TextoHolaMundo.txt
+%\011Ejercicio01.class
+%\011Ejercicio03.java
+%\011TareaEvaluativa01.pdf
+%\011Ejercicio4c.java
+%\011Marvel.dat
